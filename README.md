@@ -1,7 +1,7 @@
 # IA316-2020
 # Spotify Music Recommendation System 
 ## Focus on Discover Weekly
-### Dataset
+### I. Dataset
 The Parameters of our dataset: 
 
 - 943 users
@@ -36,7 +36,7 @@ You can find here
 
 - and a smaller dataset named "smaller_songs_dataset.csv"
 
-### Notebooks to have a look at
+### II. Notebooks to have a look at
 
 - Coding the main enivironment and the "Random", "UCB", "Linear UCB" agents:
 
@@ -47,3 +47,7 @@ You can find here
 - Coding the same main enivironment and the "ALS" agent:
 
 3. "ALS_vs_random.ipynb" to see the coding of the "ALS" agent and its regrets.
+
+
+### III. Presentation Slide
+You can have a look at our presentation slide here called "Spotify.pdf".
